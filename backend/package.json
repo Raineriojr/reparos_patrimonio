@@ -1,0 +1,22 @@
+{
+  "name": "reparos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.1.9"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "electron-reload": "^2.0.0-alpha.1",
+    "express": "^4.17.1",
+    "knex": "^0.21.21",
+    "mysql": "^2.18.1"
+  }
+}
